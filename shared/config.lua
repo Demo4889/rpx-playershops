@@ -2,7 +2,7 @@ Config = {}
 
 Config.Shops = {
     [1] = { -- Job name
-        label = 'StDenis Pharmacy',
+        label = 'St Denis Pharmacy',
         stashid = 'st-denis-pharmacy',
         jobname = 'doctor',
         blip = {
